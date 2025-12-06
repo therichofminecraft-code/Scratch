@@ -1,0 +1,5 @@
+{
+  "name": "Scratch Mail",
+  "description": "A modern, fast, and intelligent email client inspired by Gmail, built with React and powered by Gemini for smart features.",
+  "requestFramePermissions": []
+}
